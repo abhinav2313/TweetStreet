@@ -1,0 +1,6 @@
+:::::::PROJECT PROPOSAL:::::::::
+Team memebers : Jason, Sadhana, Ashley, Abhi
+Project Name : TweetStreet
+Project Description : TO find out correlation between both real time tweets on the stock prices and 
+historical tweet sentiments in the stock prices
+
