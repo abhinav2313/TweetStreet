@@ -1,1 +1,1 @@
-worker: python StocksAPI.py
+worker: python StockTweetAPI.py
