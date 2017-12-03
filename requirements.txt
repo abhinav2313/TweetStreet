@@ -1,0 +1,5 @@
+requests==2.18.4
+tweepy==3.5.0
+vaderSentiment==2.5
+numpy==1.9.1
+matplotlib==1.4.3
