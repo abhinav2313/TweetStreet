@@ -3,3 +3,4 @@ tweepy==3.5.0
 vaderSentiment==2.5
 numpy==1.9.1
 matplotlib==1.4.3
+pandas==0.20.3
